@@ -1,0 +1,3 @@
+C:/Users/pragu/CLionProjects/simpleparser/cmake-build-debug/CMakeFiles/simpleparser.dir
+C:/Users/pragu/CLionProjects/simpleparser/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pragu/CLionProjects/simpleparser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
